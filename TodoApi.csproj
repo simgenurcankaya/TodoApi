@@ -13,8 +13,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\swagger\ui\" />
-  </ItemGroup>
-
 </Project>
